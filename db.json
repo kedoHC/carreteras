@@ -1,0 +1,13 @@
+
+[
+    {
+        "id_inventory": 2,
+        "name": "inventario 1",
+        "date": "fecha 1"
+    },
+    {
+        "id_inventory": 3,
+        "name": "inventario 1",
+        "date": "fecha 2"
+    }
+]
